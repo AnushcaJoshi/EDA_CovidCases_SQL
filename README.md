@@ -4,7 +4,7 @@
 This repository contains SQL queries designed to analyze COVID-19 data, specifically focusing on death counts, vaccination rates, and their relation to population demographics. These queries utilize two main tables: coviddeaths and covidvaccinations.
 
 ## Acknowledgement
-This project draws inspiration from the work of YouTuber Alex, whose tutorials and insights have guided the development of these SQL queries. While the queries presented here are adapted to suit specific needs, credit goes to Alex for providing valuable educational content that has contributed to this project's development.
+This project draws inspiration from the work of YouTuber Alex Freberg, whose tutorials and insights have guided the development of these SQL queries. While the queries presented here are adapted to suit specific needs, credit goes to Alex for providing valuable educational content that has contributed to this project's development.
 
 ## Queries Description
 1. Ordering COVID Death Data: Queries to fetch and order COVID-19 death data and vaccination data by date and location.
